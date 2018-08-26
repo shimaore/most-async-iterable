@@ -1,7 +1,7 @@
 {
   "name": "most-async-iterable",
   "description": "Create Most.js Streams from async iterables",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Zong-Ru Jiang <ray851107@gmail.com> (github.com/ray851107)",
   "bugs": {
     "url": "https://github.com/mostjs-community/most-async-iterable/issues"
